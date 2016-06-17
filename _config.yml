@@ -1,0 +1,14 @@
+layout_spectrum: 0.17148676561191678
+typography_spectrum: 0.9523610593751073
+color:
+  brandStrength: 0.8600109049584717
+  lightness: 0.0730026955716312
+  saturation: 0.3913916712626815
+  rhythmicContrast: 0.7446380842011422
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Melba
