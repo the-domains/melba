@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4408602
+typography_spectrum: 0.21801612386479974
 color:
-  saturation: 0.3913916712626815
-  brandStrength: 0
-  lightness: 0.0730026955716312
+  saturation: 0.6415370763279498
+  brandStrength: 0.660217319149524
+  lightness: 0.7776316720992327
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
-  rhythmicContrast: 0.7446380842011422
-layout_spectrum: 0.6469534
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  rhythmicContrast: 0.9145258779171854
+layout_spectrum: 0.2849835427477956
 name: Melba
