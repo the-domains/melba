@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Melba]]></title>
+        <description><![CDATA[Melba]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Aug 2016 22:03:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Wall Street Journal & Breaking News, Business, Financial and Economic News, World News and Video]]></title>
+            <description><![CDATA[<article><h1>The Wall Street Journal & Breaking News, Business, Financial and Economic News, World News and Video</h1><p>WSJ online coverage of breaking news and current headlines from the US and around the world. Top stories, photos, videos, detailed analysis and in-depth reporting.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c389daf70b8c005fe77e398929655030/noop.png?input=http%3A%2F%2Fore.wsj.net%2Ffp%2Fcdn%2Ffp%2Fassets%2Fimages%2Fico%2FWSJ_facebook.png"></article>]]></description>
+            <link>http://wsj.com/</link>
+            <guid isPermaLink="false">21f214f9-7fd2-4b20-b5ed-7f2262798caf</guid>
+            <pubDate>Wed, 10 Aug 2016 22:03:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
